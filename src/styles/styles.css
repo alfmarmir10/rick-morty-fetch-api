@@ -1,0 +1,15 @@
+.card-img{
+  width: 95%;
+  height: 15vh;
+  border-radius: 10px;
+}
+
+.height-100vh{
+  height: 100vh;
+}
+
+.btn-cargar-mas{
+  height: 6vh;
+  border-radius: 10px;
+  margin-bottom: 6vh;
+}
